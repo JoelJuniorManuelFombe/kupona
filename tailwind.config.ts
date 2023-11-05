@@ -9,10 +9,9 @@ const config: Config = {
   theme: {
     extend: {
       backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-      },
+        'image-signin': "url('/signin/soneath4385x3456172ef36b-dbf6-443f-bb6f-c4d77d209ca3-5d1dcbbdc579b__880.jpg')",
+        'image-login': "url('/login/ph_22943_145182.jpg')"
+      }
     },
   },
   plugins: [],
